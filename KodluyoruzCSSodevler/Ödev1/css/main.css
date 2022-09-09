@@ -1,0 +1,23 @@
+.text-color{
+    color: red;
+}
+.ortalama{
+    text-align: center;
+}
+.ortalama2{
+    list-style-position: inside
+}
+.arka-renk{
+    background-color: blanchedalmond;
+}
+h1{
+    color: red;
+}
+
+h2{
+    color: purple;
+}
+
+h3{
+    color: cadetblue;
+}
