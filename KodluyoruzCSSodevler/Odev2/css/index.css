@@ -1,0 +1,54 @@
+.bg-color{
+    background-color: white;
+}
+
+.container{
+    width: 1500px;
+    height: 1500px;
+    margin: 0 auto;
+    
+}
+.top-bar{
+    text-align: center;
+    margin:0 auto;
+}
+.mid-bar{
+    width: 0 auto;
+    margin:0;
+    padding: 0 auto 0;
+}
+.mid-top{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 auto 0;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+
+.mid-bottom{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 auto 0;
+    text-align: center;
+}
+.card{
+    width: 32%;
+    margin-right: 5px;
+    margin-left: 5px;
+    float: left;
+
+}
+.merkez{
+    text-align: center;
+}
+.bg-card-color{
+    background-color: rgb(112, 204, 194);
+    height: 80px;
+}
+.fs{
+    font-size: -1;
+}
+.cleanfix{
+    clear: right;
+    margin-top: 100px;
+}
